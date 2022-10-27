@@ -1,0 +1,28 @@
+﻿  DCT_Implementation.c
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(2): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(512): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(513): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(514): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(515): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(516): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(517): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(518): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(519): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(524): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(525): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(526): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(527): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(528): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(529): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(530): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(532): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(533): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(534): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(535): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(536): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(537): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\signal.h(538): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\45311\source\repos\dct_implementation\dct_implementation\dct_implementation.c(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\45311\source\repos\dct_implementation\dct_implementation\dct_implementation.c(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\45311\source\repos\dct_implementation\dct_implementation\dct_implementation.c(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DCT_Implementation.vcxproj -> C:\Users\45311\source\repos\DCT_Implementation\Debug\DCT_Implementation.exe
